@@ -1,0 +1,24 @@
+body {
+    background-color: #F3DEBA;
+}
+table {
+    background-color: #A9907E;
+    opacity: 0.9;
+    margin: auto; /* Center the table horizontally */
+    text-align: center;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #ABC4AA;
+    border-width: 20px;
+    width: 10%;
+}
+li {
+align-items: center;
+}
+h1 {
+    color: #1A5F7A;
+}
+h2 {
+    color: #1A5F7A;
+}
